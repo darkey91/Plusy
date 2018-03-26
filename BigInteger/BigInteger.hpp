@@ -20,12 +20,14 @@ public:
 
     BigInteger operator-(const BigInteger &) const;
 
+    bool isLess( const BigInteger &);
+
 private:
+
     std::vector<long long> num;
     bool isPos = true;
 
     friend std::istream &operator>>(std::istream &, BigInteger &);
-
     friend std::ostream &operator<<(std::ostream &, const BigInteger &);
 };
 
