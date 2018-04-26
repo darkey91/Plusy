@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="BigInteger" targetName="BigInteger" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="920695ef-b0bf-4a5f-b0b9-5e78626ec752" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="BigInteger" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BigInteger.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="240" column="0" lean-forward="true" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+              <folding>
+                <element signature="e#358#375#0" expanded="true" />
+                <element signature="e#440#500#0" expanded="true" />
+                <element signature="e#1618#1643#0" expanded="true" />
+                <element signature="e#1733#1758#0" expanded="true" />
+                <element signature="e#1853#1881#0" expanded="true" />
+                <element signature="e#1845#1945#0" expanded="false" />
+                <element signature="e#1956#1984#0" expanded="true" />
+                <element signature="e#2200#2228#0" expanded="true" />
+                <element signature="e#2372#2400#0" expanded="true" />
+                <element signature="e#2561#2589#0" expanded="true" />
+                <element signature="e#3332#3360#0" expanded="true" />
+                <element signature="e#3324#3515#0" expanded="false" />
+                <element signature="e#3525#3553#0" expanded="true" />
+                <element signature="e#4638#4666#0" expanded="true" />
+                <element signature="e#4630#4821#0" expanded="false" />
+                <element signature="e#4831#4859#0" expanded="true" />
+                <element signature="e#4823#5660#0" expanded="false" />
+                <element signature="e#5670#5698#0" expanded="true" />
+                <element signature="e#5662#5853#0" expanded="false" />
+                <element signature="e#5863#5891#0" expanded="true" />
+                <element signature="e#5855#6242#0" expanded="false" />
+                <element signature="e#6252#6280#0" expanded="true" />
+                <element signature="e#7772#7800#0" expanded="true" />
+                <element signature="e#8230#8258#0" expanded="true" />
+                <element signature="e#8222#8781#0" expanded="false" />
+                <element signature="e#8791#8819#0" expanded="true" />
+                <element signature="e#8783#8926#0" expanded="false" />
+                <element signature="e#8936#8964#0" expanded="true" />
+                <element signature="e#8928#9032#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dig</find>
+      <find>ostr</find>
+      <find>base`</find>
+      <find>isPos</find>
+      <find>base</find>
+      <find>other</find>
+      <find>power</find>
+      <find>bigInt</find>
+      <find>Templ</find>
+      <find>&lt;T&gt;</find>
+      <find>BigInteger</find>
+      <find>NewBase</find>
+      <find>BigInteger&lt;T&gt;</find>
+      <find>Base</find>
+      <find>ost</find>
+      <find>num</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/BigInteger.cpp" />
+        <option value="$PROJECT_DIR$/biginteger.hpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/test.cpp" />
+        <option value="$PROJECT_DIR$/func.h" />
+        <option value="$PROJECT_DIR$/func.cpp" />
+        <option value="$PROJECT_DIR$/BigIntegerTempl.h" />
+        <option value="$PROJECT_DIR$/BigIntegerTempl.cpp" />
+        <option value="$PROJECT_DIR$/BigIntegerTemplate.h" />
+        <option value="$PROJECT_DIR$/Caster.h" />
+        <option value="$PROJECT_DIR$/Caster.cpp" />
+        <option value="$PROJECT_DIR$/BigInteger.hpp" />
+        <option value="$PROJECT_DIR$/BigInteger.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/BigInteger.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="732" />
+    <option name="y" value="25" />
+    <option name="width" value="1188" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>GeneralC/C++</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ClangTidyInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="BigInteger" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BigInteger" TARGET_NAME="BigInteger" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BigInteger" RUN_TARGET_NAME="BigInteger">
+      <envs />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BigInteger" RUN_TARGET_NAME="BigInteger" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BigInteger" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="920695ef-b0bf-4a5f-b0b9-5e78626ec752" name="Default" comment="" />
+      <created>1520787149298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520787149298</updated>
+      <workItem from="1520787150958" duration="23333000" />
+      <workItem from="1520865850237" duration="46000" />
+      <workItem from="1521354560164" duration="14778000" />
+      <workItem from="1521381004786" duration="6405000" />
+      <workItem from="1521389033209" duration="4477000" />
+      <workItem from="1521400515825" duration="4898000" />
+      <workItem from="1521417751524" duration="784000" />
+      <workItem from="1521444630213" duration="3518000" />
+      <workItem from="1521480424824" duration="88000" />
+      <workItem from="1521668931296" duration="1085000" />
+      <workItem from="1521821849405" duration="19000" />
+      <workItem from="1522005444202" duration="9212000" />
+      <workItem from="1522016955551" duration="1039000" />
+      <workItem from="1522019552539" duration="604000" />
+      <workItem from="1522049920429" duration="3827000" />
+      <workItem from="1522077732979" duration="774000" />
+      <workItem from="1522089390486" duration="34000" />
+      <workItem from="1522275224687" duration="902000" />
+      <workItem from="1522616191575" duration="4133000" />
+      <workItem from="1522690321974" duration="69000" />
+      <workItem from="1523045369065" duration="5353000" />
+      <workItem from="1523092253819" duration="8803000" />
+      <workItem from="1523133005877" duration="19000" />
+      <workItem from="1523214670692" duration="15396000" />
+      <workItem from="1523267005345" duration="688000" />
+      <workItem from="1523291096908" duration="56000" />
+      <workItem from="1523305434591" duration="19000" />
+      <workItem from="1523530117088" duration="12766000" />
+      <workItem from="1523641025276" duration="630000" />
+      <workItem from="1523739298199" duration="9792000" />
+      <workItem from="1523781254514" duration="2107000" />
+      <workItem from="1523819449091" duration="7840000" />
+      <workItem from="1523866180487" duration="2578000" />
+      <workItem from="1523874181048" duration="25000" />
+      <workItem from="1523995601699" duration="905000" />
+      <workItem from="1524064685616" duration="1821000" />
+      <workItem from="1524416146489" duration="3148000" />
+      <workItem from="1524579524683" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="152632000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="732" y="25" width="1188" height="1053" extended-state="4" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09875877" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41201264" sideWeight="0.6146789" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.35490832" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1408046" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2528978" sideWeight="0.3853211" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7881981" sideWeight="0.6936354" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41201264" sideWeight="0.6146789" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.35490832" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09875877" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1408046" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2528978" sideWeight="0.3853211" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7881981" sideWeight="0.6936354" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41201264" sideWeight="0.6146789" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.35490832" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09875877" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1408046" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2528978" sideWeight="0.3853211" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BigInteger.cpp</url>
+          <line>257</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="192" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="81" lean-forward="false" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="81" lean-forward="false" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="92" column="20" lean-forward="true" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="82" column="1" lean-forward="false" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="3" lean-forward="false" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="8" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="8" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="8" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="8" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="8" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="8" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="106" column="26" lean-forward="false" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/BigInteger.cpp" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/func.h" />
+    <entry file="file://$PROJECT_DIR$/func.cpp" />
+    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="670" column="0" lean-forward="false" selection-start-line="670" selection-start-column="0" selection-end-line="670" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigIntegerTempl.h" />
+    <entry file="file://$PROJECT_DIR$/BigIntegerTempl.cpp" />
+    <entry file="file://$PROJECT_DIR$/Caster.h" />
+    <entry file="file:///usr/include/c++/7/bits/postypes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="97" column="10" lean-forward="false" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Caster.cpp" />
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="170" column="2" lean-forward="false" selection-start-line="170" selection-start-column="2" selection-end-line="170" selection-end-column="2" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.hpp" />
+    <entry file="file://$PROJECT_DIR$/BigInteger.h" />
+    <entry file="file:///usr/include/c++/7/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/ext/new_allocator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="240" column="0" lean-forward="true" selection-start-line="240" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+            <element signature="e#440#500#0" expanded="true" />
+            <element signature="e#1618#1643#0" expanded="true" />
+            <element signature="e#1733#1758#0" expanded="true" />
+            <element signature="e#1853#1881#0" expanded="true" />
+            <element signature="e#1845#1945#0" expanded="false" />
+            <element signature="e#1956#1984#0" expanded="true" />
+            <element signature="e#2200#2228#0" expanded="true" />
+            <element signature="e#2372#2400#0" expanded="true" />
+            <element signature="e#2561#2589#0" expanded="true" />
+            <element signature="e#3332#3360#0" expanded="true" />
+            <element signature="e#3324#3515#0" expanded="false" />
+            <element signature="e#3525#3553#0" expanded="true" />
+            <element signature="e#4638#4666#0" expanded="true" />
+            <element signature="e#4630#4821#0" expanded="false" />
+            <element signature="e#4831#4859#0" expanded="true" />
+            <element signature="e#4823#5660#0" expanded="false" />
+            <element signature="e#5670#5698#0" expanded="true" />
+            <element signature="e#5662#5853#0" expanded="false" />
+            <element signature="e#5863#5891#0" expanded="true" />
+            <element signature="e#5855#6242#0" expanded="false" />
+            <element signature="e#6252#6280#0" expanded="true" />
+            <element signature="e#7772#7800#0" expanded="true" />
+            <element signature="e#8230#8258#0" expanded="true" />
+            <element signature="e#8222#8781#0" expanded="false" />
+            <element signature="e#8791#8819#0" expanded="true" />
+            <element signature="e#8783#8926#0" expanded="false" />
+            <element signature="e#8936#8964#0" expanded="true" />
+            <element signature="e#8928#9032#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/f.dir/main.cpp.o CMakeFiles/f.dir/kawa.cpp.o  -o f 

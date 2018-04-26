@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkey/CLionProjects/BigInteger/BigInteger.cpp
+limits
+-
+iostream
+-
+cmath
+-
+vector
+-
+
+/home/darkey/CLionProjects/BigInteger/main.cpp
+BigInteger.cpp
+/home/darkey/CLionProjects/BigInteger/BigInteger.cpp
+iostream
+-
+limits
+-
+climits
+-
+

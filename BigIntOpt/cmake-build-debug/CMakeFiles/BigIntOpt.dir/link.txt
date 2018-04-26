@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BigIntOpt.dir/main.cpp.o CMakeFiles/BigIntOpt.dir/BigInteger.cpp.o  -o BigIntOpt 

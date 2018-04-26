@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkey/CLionProjects/seg_tree/f/kawa.cpp
+iostream
+-
+
+/home/darkey/CLionProjects/seg_tree/f/main.cpp
+climits
+-
+cstdio
+-
+vector
+-
+iostream
+-
+
